@@ -17,4 +17,4 @@ Today was all about Java on Tomcat. I deployed a Java web app and here’s the j
 
 This was a solid exercise in Linux server management, Java web app deployment, and Tomcat configuration.
 
-![alt text](<day-11 2025-08-15 101244.png>)
+![alt text](<images/day-11 2025-08-15 101244.png>)

@@ -12,4 +12,4 @@ I created a script to backup a webserver to a backup server. How I went about it
 
 This way, the script can be run periodically by a cronjob to make the backup happen.
 
-![Script result screenshot](<day-10 2025-08-14 095408.png>)
+![Script result screenshot](<images/day-10 2025-08-14 095408.png>)
