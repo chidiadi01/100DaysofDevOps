@@ -10,4 +10,5 @@ Documenting all the tasks I've done in my 100 Days of DevOps challenge. These ar
 - [Day 9](./009-day-nine.md) - Did MariaDB server troubleshooting
 - [Day 10](/010-day-ten.md) - Created a script to backup a webserver to a backup server.
 - [Day 11](./011-day-eleven.md) - Deployed a Java web app with Apache Tomcat
-- [Day 12](./012-day-twelve.md) - Troublshot an Apache server that was down to restore it
+- [Day 12](./012-day-twelve.md) - Troubleshot an Apache server that was down to restore it
+- [Day 13](./013-day-thirteen.md) - Installed iptables, created rules and made them persistent
