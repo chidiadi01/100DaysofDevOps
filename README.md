@@ -2,8 +2,8 @@
 Documenting all the tasks I've done in my 100 Days of DevOps challenge. These are all done on Kodekloud.
 
 
-
-
+- [Day 4](./004-day-four.md) - Granted executable permissions to a file so that all the users can execute the file.
+- [Day 5](./005-day-five.md) - Installed SELinux packages
 - [Day 6](./006-day-six.md) - Installed cronie and added cronjobs for root user to the three app servers.
 - [Day 7](./007-day-seven.md) - Setup passwordless authentication for a remote server
 - [Day 8](./008-day-eight.md) - Installed Ansible with pip3 and made it globally accessible
