@@ -1,7 +1,7 @@
 # 100DaysofDevOps
 Documenting all the tasks I've done in my 100 Days of DevOps challenge. These are all done on Kodekloud.
 
-- [Day 1]()
+- [Day 1](./001-day-one.md) - Created a Linux user with a non-interactive shell.
 - [Day 2](./002-day-two.md) - Created a temporary user with an expiry date.
 - [Day 3](./003-day-three.md) - Disabled root login through SSH
 - [Day 4](./004-day-four.md) - Granted executable permissions to a file so that all the users can execute the file.
