@@ -1,4 +1,4 @@
-# 🗓️ Day 14
+# 🗓️ Day 14 / 100
 100 Days of DevOps 🚀 
 
 Apache is down on one of the app servers. Find it and restore the service. I did justs that — logged into all three servers and checked the status of the `httpd.service`. In app server 1, it was down. So, I used journactl to look through the logs to see the possible errors. I found that the port was in use by another service.
