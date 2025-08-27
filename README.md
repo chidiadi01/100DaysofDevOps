@@ -4,7 +4,7 @@ Documenting all the tasks I've done in my 100 Days of DevOps challenge. These ar
 
 
 
-
+- [Day 6](./006-day-six.md) - Installed cronie and added cronjobs for root user to the three app servers.
 - [Day 7](./007-day-seven.md) - Setup passwordless authentication for a remote server
 - [Day 8](./008-day-eight.md) - Installed Ansible with pip3 and made it globally accessible
 - [Day 9](./009-day-nine.md) - Did MariaDB server troubleshooting
