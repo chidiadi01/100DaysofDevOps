@@ -15,3 +15,4 @@ Documenting all the tasks I've done in my 100 Days of DevOps challenge. These ar
 - [Day 12](./012-day-twelve.md) - Troubleshot an Apache server that was down to restore it
 - [Day 13](./013-day-thirteen.md) - Installed iptables, created rules and made them persistent
 - [Day 14](./014-day-fourteen.md) - Checked Apache servers and restored a failed service
+- [Day 15](./015-day-fifteen.md) - Setup SSL for nginx
