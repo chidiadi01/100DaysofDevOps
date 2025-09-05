@@ -16,7 +16,8 @@ Configured app servers, and the database server to host a WordPress website.
 ```CREATE DATABASE database_name;
     CREATE USER 'database_user'@'%' IDENTIFIED AS 'password';
     GRANT ALL PRIVILEGES ON database_name.* TO 'database_user'@'%';
-    FLUSH PRIVILEGES; ```
+    FLUSH PRIVILEGES; 
+```
 
 ✅ Made sure everything was running as intended.
 
