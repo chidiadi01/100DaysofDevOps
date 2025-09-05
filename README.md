@@ -17,4 +17,5 @@ Documenting all the tasks I've done in my 100 Days of DevOps challenge. These ar
 - [Day 14](./014-day-fourteen.md) - Checked Apache servers and restored a failed service
 - [Day 15](./015-day-fifteen.md) - Setup SSL for nginx
 - [Day 16](./016-day-sixteen.md) - Setup nginx as a load balancer
-- [Day 17](./017-day-seven.md) - Created a user and a database on a postgres server
+- [Day 17](./017-day-seventeen.md) - Created a user and a database on a postgres server
+- [Day 18](./018-day-eighteen.md) - Configured app servers and database server to host WordPress
