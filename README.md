@@ -19,3 +19,4 @@ Documenting all the tasks I've done in my 100 Days of DevOps challenge. These ar
 - [Day 16](./016-day-sixteen.md) - Setup nginx as a load balancer
 - [Day 17](./017-day-seventeen.md) - Created a user and a database on a postgres server
 - [Day 18](./018-day-eighteen.md) - Configured app servers and database server to host WordPress
+- [Day 19](./019-day-nineteen.md) - Installed a configured Apache to serve two webpages based on URL

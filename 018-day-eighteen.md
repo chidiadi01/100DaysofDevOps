@@ -22,4 +22,4 @@ Configured app servers, and the database server to host a WordPress website.
 ✅ Made sure everything was running as intended.
 
 
-![alt text](<images/day-18.png>)
+![Displaying the PHP webpage](<images/day-18.png>)
