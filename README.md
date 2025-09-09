@@ -21,3 +21,4 @@ Documenting all the tasks I've done in my 100 Days of DevOps challenge. These ar
 - [Day 18](./018-day-eighteen.md) - Configured app servers and database server to host WordPress
 - [Day 19](./019-day-nineteen.md) - Installed a configured Apache to serve two webpages based on URL
 - [Day 20](./020-day-twenty.md) - Setup Nginx + PHP-FPM via Unix socket
+- [Day 21](./021-day-twenty-one.md) - Set Up Git Repository on Storage Server
