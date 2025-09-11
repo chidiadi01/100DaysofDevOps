@@ -22,5 +22,5 @@ Documenting all the tasks I've done in my 100 Days of DevOps challenge. These ar
 - [Day 19](./019-day-nineteen.md) - Installed a configured Apache to serve two webpages based on URL
 - [Day 20](./020-day-twenty.md) - Setup Nginx + PHP-FPM via Unix socket
 - [Day 21](./021-day-twenty-one.md) - Set Up Git Repository on Storage Server
-- [Day 22](./022-day-twenty-two.md) - Clone Git Repository on Storage Server
-- [Fay 23](./023-day-twenty-three.md) - Forked a Git repository
+- [Day 22](./022-day-twenty-two.md) - Cloneed a Git Repository on Storage Server
+- [Day 23](./023-day-twenty-three.md) - Forked a Git repository
