@@ -24,3 +24,4 @@ Documenting all the tasks I've done in my 100 Days of DevOps challenge. These ar
 - [Day 21](./021-day-twenty-one.md) - Set Up Git Repository on Storage Server
 - [Day 22](./022-day-twenty-two.md) - Cloneed a Git Repository on Storage Server
 - [Day 23](./023-day-twenty-three.md) - Forked a Git repository
+- [Day 24](./024-day-twenty-four.md) - Create a Git branch from the master branch
