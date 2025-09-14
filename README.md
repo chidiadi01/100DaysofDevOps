@@ -26,3 +26,4 @@ Documenting all the tasks I've done in my 100 Days of DevOps challenge. These ar
 - [Day 23](./023-day-twenty-three.md) - Forked a Git repository
 - [Day 24](./024-day-twenty-four.md) - Create a Git branch from the master branch
 - [Day 25](./025-day-twenty-five.md) - Git Merge Branches
+- [Day 26](./026-day-twenty-six.md) - Connect a remote repo to your local repo, add a file and push to it.
