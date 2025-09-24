@@ -29,3 +29,4 @@ Documenting all the tasks I've done in my 100 Days of DevOps challenge. These ar
 - [Day 26](./026-day-twenty-six.md) - Connect a remote repo to your local repo, add a file and push to it.
 - [Day 27](./027-day-twenty-seven.md) - Revert Git changes.
 - [Day 28](./028-day-twenty-eight.md) - Merge particular commits with Git cherry pick
+- [Day 29](./029-day-twenty-nine.md) - Manage pull requests
