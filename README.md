@@ -31,3 +31,4 @@ Documenting all the tasks I've done in my 100 Days of DevOps challenge. These ar
 - [Day 28](./028-day-twenty-eight.md) - Merge particular commits with Git cherry pick
 - [Day 29](./029-day-twenty-nine.md) - Manage pull requests
 - [Day 30](./030-day-thirty.md) - Git hard reset
+- [Day 31](./031-day-thirty-one.md) - Git stash 
