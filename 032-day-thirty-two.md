@@ -1,4 +1,4 @@
-# 🗓️ DAY 31 / 100
+# 🗓️ DAY 32 / 100
 
 100 Days of DevOps 🚀 
 

@@ -32,3 +32,5 @@ Documenting all the tasks I've done in my 100 Days of DevOps challenge. These ar
 - [Day 29](./029-day-twenty-nine.md) - Manage pull requests
 - [Day 30](./030-day-thirty.md) - Git hard reset
 - [Day 31](./031-day-thirty-one.md) - Git stash 
+- [Day 32](./032-day-thirty-two.md) - Git rebase
+- [Day 33](./033-day-thirty-three.md) - Resolve merge conflicts
